@@ -1,0 +1,8 @@
+git clone https://github.com/zlsupergamer/atividade.git
+cd atividade
+code .
+git checkout -b paulo
+
+git add .
+git commit -m "Alterações no arquivo README.md - matrícula: 894680"
+git push origin paulo
